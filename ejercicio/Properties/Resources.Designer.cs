@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace ejercicios.Properties
+namespace ejercicio.Properties
 {
     /// <summary>
     ///   Clase de recurso fuertemente tipado para buscar cadenas traducidas, etc.
@@ -43,7 +43,7 @@ namespace ejercicios.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ejercicios.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ejercicio.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

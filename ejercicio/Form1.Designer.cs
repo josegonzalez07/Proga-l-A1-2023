@@ -1,5 +1,5 @@
 ﻿
-namespace ejercicios
+namespace ejercicio
 {
     partial class Form1
     {
